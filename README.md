@@ -1,19 +1,24 @@
 # 👋 Hi, I'm Ado
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25\&duration=3000\&color=00F7FF\&center=true\&vCenter=true\&width=600\&lines=Backend+Developer;Data+%2F+AI+Enthusiast;Master's+Student+in+Networks+and+systems+engineering;Building+Real+World+Projects)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Data+%2F+AI+Enthusiast;Master's+Student+in+Networks;and+Systems+Engineering;Building+Real+World+Projects)
 
 ---
-
 ## 🚀 About Me
 
-🎓 Master's student in Nestworks and systems engineering
-💻 Aspiring Backend / Data / AI Developer
+🎓 Master's student in Networks and Systems Engineering  
+💻 Aspiring Backend / Data / AI Developer  
 
+- 🔧 Strong background in Java, Python, SQL, C#  
+- 📊 Currently focused on Data Analysis & AI projects  
+- 🌐 Learning Backend Development (APIs, system design)  
+- 🧠 I learn best by building real-world projects  
 
-* 🔧 Strong background in Java, Python, SQL, C#
-* 📊 Currently focused on Data Analysis & AI projects
-* 🌐 Learning Backend Development (APIs, system design)
-* 🧠 I learn best by building real-world projects
+### 🖧 Networking & Systems Skills
+- 🖥️ Linux (Ubuntu, command line, basic administration)  
+- 🌐 Networking fundamentals (TCP/IP, HTTP, DNS)  
+- 🔌 Socket programming & real-time communication  
+- ☁️ Basic cloud & virtualization (VirtualBox, Docker)  
+- 🔐 Intro to system security & architecture  
 
 ---
 
