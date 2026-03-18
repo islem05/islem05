@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ado
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Data+%2F+AI+Enthusiast;Master's+Student+in+Networks;and+Systems+Engineering;Building+Real+World+Projects)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00F7FF&center=true&vCenter=true&width=900&lines=Backend+Developer;Data+%2F+AI+Enthusiast;Master's+Student+in+Networks+and+Systems+Engineering;Building+Real+World+Projects)
 
 ---
 ## 🚀 About Me
@@ -24,7 +24,7 @@
 
 ## 🛠️ Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=java,python,cs,js,ts,docker,linux,git,nodejs,spring)
+![My Skills](https://skillicons.dev/icons?i=java,python,cs,js,ts,docker,kubernetes,linux,git,nodejs,react,express,nginx)
 
 ---
 
