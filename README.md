@@ -8,7 +8,7 @@
 
 🎓 Master's student in Nestworks and systems engineering
 💻 Aspiring Backend / Data / AI Developer
-📍 Based in France
+
 
 * 🔧 Strong background in Java, Python, SQL, C#
 * 📊 Currently focused on Data Analysis & AI projects
