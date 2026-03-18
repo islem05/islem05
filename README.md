@@ -70,19 +70,19 @@ Socket.io
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=islem05\&show_icons=true\&theme=radical)
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME\&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=islem05\&theme=radical)
 
 ---
 
 ## 📈 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=islem05\&layout=compact\&theme=radical)
 
 ---
 
