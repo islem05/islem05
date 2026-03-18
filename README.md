@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ado
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25\&duration=3000\&color=00F7FF\&center=true\&vCenter=true\&width=600\&lines=Backend+Developer;Data+%2F+AI+Enthusiast;Master's+Student+in+Computer+Science;Building+Real+World+Projects)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25\&duration=3000\&color=00F7FF\&center=true\&vCenter=true\&width=600\&lines=Backend+Developer;Data+%2F+AI+Enthusiast;Master's+Student+in+Networks+and+systems+engineering;Building+Real+World+Projects)
 
 ---
 
